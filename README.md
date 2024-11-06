@@ -14,4 +14,3 @@
 ```shell
     pip install plotly
 ```
-

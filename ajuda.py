@@ -1,0 +1,27 @@
+def abr_mes(mes):
+    if mes==1:
+        return 'Jan'
+    elif mes==2:
+        return 'Fev'
+    elif mes==3:
+        return 'Mar'
+    elif mes==4:
+        return 'Abr'
+    elif mes==5:
+        return 'Mai'
+    elif mes==6:
+        return 'Jun'
+    elif mes==7:
+        return 'Jul'
+    elif mes==8:
+        return 'Ago'
+    elif mes==9:
+        return 'Set'
+    elif mes==10:
+        return 'Out'
+    elif mes==11:
+        return 'Nov'
+    elif mes==12:
+        return 'Dez'
+    else:
+        return mes
